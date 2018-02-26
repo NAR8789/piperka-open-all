@@ -27,9 +27,10 @@
 // @name        Piperka Open All
 // @namespace   https://github.com/NAR8789
 // @description Adds an open all button to piperka updates page
-// @version     1.0
+// @version     1.0.1
 // @grant       none
 // @match       http://piperka.net/updates.html
+// @match       https://piperka.net/updates.html
 // ==/UserScript==
 
 // this script relies on jquery, but does not @require it...
